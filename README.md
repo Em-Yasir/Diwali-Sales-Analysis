@@ -1,4 +1,4 @@
-#Dewali Sales Analysis | Python
+# Dewali Sales Analysis | Python
 ˇ The Key Objectives for this project were:
 -Improve customer experience by analyzing sales data.
 -Increase Revenue.
